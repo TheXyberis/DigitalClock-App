@@ -1,3 +1,10 @@
+# Digital Clock App
+
+A simple React + Vite project.
+
+## Live Demo
+Check it out here: [Digital Clock App on Vercel](https://digital-clock-muv54qp64-mariias-projects-97f9717b.vercel.app/)
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
