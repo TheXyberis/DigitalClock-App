@@ -3,7 +3,7 @@
 A simple React + Vite project.
 
 ## Live Demo
-Check it out here: [Digital Clock App on Vercel](https://digital-clock-muv54qp64-mariias-projects-97f9717b.vercel.app/)
+Check it out here: [Digital Clock App on Vercel](https://digital-clock-sand-tau.vercel.app/)
 
 # React + Vite
 
